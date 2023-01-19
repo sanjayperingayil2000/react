@@ -1,3 +1,5 @@
+click on raw option to view questions single by single
+
 react interview querstions ?
 
 What is Virtual DOM?
