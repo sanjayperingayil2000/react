@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+react interview querstions ?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+What is Virtual DOM?
+What is SPA
+What is difference between class and functional component
+What does mean by state and its use in react?
+What is JSX and why do we use it instead of js?
+What is package.json
+Difference b/w Stateful and stateless Component
+How do you pass data from parent to child
+What is the package name you are using for routing
+What is the Difference between react and react native? Which one is library or framework?
+What is lazy loading in react ?
+Routing Implementation
+How do you switch one component to another, Conditional Rendering
+Difference between Axios and fetch
+What is UseState Hook ?(Implementation)
+What is useEffect Hook ?(Implementation)
+What is UseReducer Hook ?(Implementation)
+What is UseMemo Hook ?(Implementation)
+What is Context api
+What is Props Drilling Concept ?What is State Uplifting ?
+What are React Life cycles Explain each one with Example
+High Order Component in react js ?
+Do you know about SEO ? Is it true that react js supports SEO support
+clean up in useEffect
+What is UseRef Hook ?(Implementation)
+Difference between callback and useCallback Hook ?
+Difference between useEffect and useContext ?
+What is the use of useCallback and useMemo
+Why do we need keys in react less
+Do you know about redux
+What is an event in react?
+What is memory leak and how to overcome?
+Do you prefer function-based or class component and why ?
+Explain reducer as pure function in redux
+Why do we use redux thunk?
+What do you know about NPM?
+https://jsonplaceholder.typicode.com/users     how to fetch the data from the JSON format
